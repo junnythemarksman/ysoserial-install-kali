@@ -1,6 +1,8 @@
 # Introduction
 Installing wine on Kali Linux is not advisable as it might pose a security risk. However, it is convenient when playing CTFs.
 
+I usually install ysoserial.net on a cloned Kali Linux I use for CTFs.
+
 
 ## To ensure that ysoserial.net gets installed in Kali Linux properly, follow these steps:
 1) Install the following packages: `(sudo) apt install mono-complete wine winetricks -y`.
